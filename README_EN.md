@@ -72,7 +72,7 @@ Obtain the code and start the development environment by following the following
 - Exercise 2 - Using AI Coding Assistant for Automatic Code Completion
 - Exercise 3 - Improve the prompt words and let the AI coding assistant generate code that matches the intent
 - Exercise 4 - Using AI Coding Assistant, Chat Debugging and Fixing Code
-- Exercise 5 Generate unit test code using AI coding assistant
+- Exercise 5 - Generate unit test code using AI coding assistant
 - Exercise 6 - Using the AI Coding Assistant to Generate Git Submit Comments
 
 ## Contact
