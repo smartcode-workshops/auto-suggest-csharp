@@ -1,5 +1,7 @@
 # SmartCode Workshop 自动推荐系统示例应用（C# + VSCode版）
 
+[English](./README_EN.md) | 中文版
+
 ## 概述
 
 在此示例项目中，你将使用 Visual Studio Code 开发一个应用程序，该应用程序使用字典自动完成单词并提供拼写建议。
